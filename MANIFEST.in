@@ -1,4 +1,0 @@
-include CHANGES.txt
-include LICENSE.txt
-include doc/*
-prune doc/_build
